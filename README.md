@@ -1,4 +1,5 @@
-###  Hi there! Welcome to my GitHub profile (╯°□°）╯︵ ┻━┻
+<h2> Hi there! Welcome to my GitHub profile (╯°□°）╯︵ ┻━┻ </h1>
+
 ___
 
 🤖 Name - Matheus Aprigio 
@@ -12,4 +13,12 @@ ___
 LinkedIn -  https://www.linkedin.com/in/matheus-aprigio/
 
 Personal Instragram - https://www.instagram.com/mathaprigio/
+
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="50"/> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="50"/>
+
+
+
+
+
+
 
