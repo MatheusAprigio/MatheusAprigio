@@ -4,9 +4,9 @@ ___
 
 🤖 Name - Matheus Aprigio 
 
-🚀 Current Company - [Open Labs](https://www.openlabs.com.br/br/)
+🚀 Current Company - [CI&T](https://ciandt.com/br/pt-br/home)
 
-💙 Main programming language - Java 
+👨‍💻 Main programming language - Java 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAprigio)](https://github.com/anuraghazra/github-readme-stats)
 
