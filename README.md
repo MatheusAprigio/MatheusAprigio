@@ -4,7 +4,7 @@ ___
 
 🤖 Name - Matheus Aprigio 
 
-🚀 Current Company - [CI&T](https://ciandt.com/br/pt-br/home)
+🚀 Current Company - [Globant](https://www.globant.com/pt-br)
 
 👨‍💻 Main programming language - Java 
 
